@@ -1,2 +1,2 @@
 # imcrop
-Image cropper using OpenCV
+Image cropping calculator using OpenCV
